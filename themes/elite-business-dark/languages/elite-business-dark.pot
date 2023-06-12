@@ -1,0 +1,125 @@
+# Copyright (C) {2022} Firefly Themes
+msgid ""
+msgstr ""
+"Project-Id-Version: Elite Business Dark 1.1.0\n"
+"Report-Msgid-Bugs-To: https://fireflythemes.com/support/\n"
+"POT-Creation-Date: 2022-04-08 09:35:38+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Firefly Themes <info@fireflythemes.com>\n"
+"Language-Team: Firefly Themes <info@fireflythemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:55
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:57
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:41 inc/customizer.php:56
+msgid "Style"
+msgstr ""
+
+#: inc/customizer.php:44 inc/customizer.php:59
+msgid "Style One"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Style Two"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Style three"
+msgstr ""
+
+#: inc/social-menu.php:25
+msgid "Add Social Menu to sidebar"
+msgstr ""
+
+#: inc/social-menu.php:29
+msgid "Elite Business Dark Social Menu"
+msgstr ""
+
+#: inc/social-menu.php:147
+#. translators: %s: URL to create a new menu.
+msgid "No menu available"
+msgstr ""
+
+#: inc/social-menu.php:152
+msgid "Title:"
+msgstr ""
+
+#: inc/social-menu.php:156
+msgid "Select Menu:"
+msgstr ""
+
+#: inc/social-menu.php:158
+msgid "- Select -"
+msgstr ""
+
+#: inc/social-menu.php:168
+msgid "Edit Menu"
+msgstr ""
+
+#: template-parts/header/header-two.php:23
+msgid "Top Bar"
+msgstr ""
+
+#: template-parts/header/header-two.php:40
+#: template-parts/header/header-two.php:75
+msgid "Social Links Menu"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Elite Business Dark"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://fireflythemes.com/themes/elite-business-dark/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Elite Business Dark is our new child theme for Elite Business Theme. The "
+"parent theme of this theme is our popular WordPress theme Elite Business. "
+"Child theme Elite Business Dark which inherits functionality and feature of "
+"its parent theme with a different header. Elite Business Dark is also a "
+"Multipurpose WordPress theme which can be used in any kind of business. It "
+"has a premier look which will give a unique modern looking website. With "
+"customizable features and smooth design, it will attract new visitors too. "
+"On top of that, the theme has been optimized to load fast and is fully "
+"responsive, you can also import demo content with plugin one click demo "
+"importer. If you want more flexible functionality you can also choose to "
+"upgrade to premium version of the theme. Visit "
+"https://fireflythemes.com/support for support, "
+"https://fireflythemes.com/documentation/elite-business-dark for theme "
+"documentation and https://demo.fireflythemes.com/elite-business-dark for "
+"demo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FireFly Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://fireflythemes.com/"
+msgstr ""
