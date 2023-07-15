@@ -9,7 +9,7 @@
 <div class="wp-block-group"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|40","top":"var:preset|spacing|40"}}},"layout":{"type":"flex","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|50"}},"className":"lemmony-mobile-width-full","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group lemmony-mobile-width-full"><!-- wp:image {"id":565,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="<?php echo esc_url( get_home_url() ); ?>"><img src="<?php echo esc_url( get_theme_file_uri("assets/media/content/logo-agency.svg") ); ?>" alt="" class="wp-image-565"/></a></figure>
+<figure class="wp-block-image size-large"><a href="<?php echo esc_url( get_home_url() ); ?>"><img src="<?php echo esc_url( get_theme_file_uri("assets/media/content/LMM Crypto horizontal logo3.png") ); ?>" alt="" class="logo wp-image-565"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:navigation {"layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"left","flexWrap":"wrap"},"style":{"typography":{"fontStyle":"normal","fontWeight":"700"},"spacing":{"blockGap":"40px"}},"fontSize":"tiny-plus"} -->

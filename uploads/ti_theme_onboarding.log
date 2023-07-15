@@ -1,0 +1,16 @@
+[12/Jul/2023:05:12:58] (I): WordPress Instance Info:
+[12/Jul/2023:05:12:58] (I): Home URL : http://lmmcryptonew.local
+[12/Jul/2023:05:12:58] (I): Site URL : http://lmmcryptonew.local
+[12/Jul/2023:05:12:58] (I): WordPress Version : 6.2.2
+[12/Jul/2023:05:12:58] (I): Onboarding Version : 1.1.39
+[12/Jul/2023:05:12:58] (I): Multisite : No
+[12/Jul/2023:05:12:58] (I): Server Info : nginx/1.16.0
+[12/Jul/2023:05:12:58] (I): PHP Version : 8.1.9
+[12/Jul/2023:05:12:58] (I): HTTPS : No
+[12/Jul/2023:05:12:58] (I): PHP Max Execution Time : 1200
+[12/Jul/2023:05:12:58] (I): PHP Max Input Vars : 4000
+[12/Jul/2023:05:12:58] (I): Max Upload Size : 314572800
+[12/Jul/2023:05:12:58] (I): Plugins:
+[12/Jul/2023:05:12:58] (I): [PLUGIN] Blocksy Companion : v1.8.90 (CreativeThemes)
+[12/Jul/2023:05:12:58] (I): [PLUGIN] Lemmony Companion : v1.0.7 (Shufflehound)
+[12/Jul/2023:05:12:58] (I): [PLUGIN] Templates Patterns Collection : v1.1.39 (ThemeIsle)

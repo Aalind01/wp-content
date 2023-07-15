@@ -15,7 +15,7 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"style":{"typography":{"lineHeight":"1.3","fontSize":"64px"}},"className":"lemmony-animation lemmonyFadeInUp","animationStyle":"lemmonyFadeInUp"} -->
-<h2 class="wp-block-heading lemmony-animation lemmonyFadeInUp lemmony-animation" style="font-size:64px;line-height:1.3;--lemmony-animation-name:lemmonyFadeInUp"><?php esc_html_e( 'A Block-tastic WordPress Agency', 'lemmony-agency' ); ?></h2>
+<h2 class="wp-block-heading lemmony-animation lemmonyFadeInUp lemmony-animation" style="font-size:64px;line-height:1.3;--lemmony-animation-name:lemmonyFadeInUp"><?php esc_html_e( 'A Crypt-astic Asset Management Agency', 'lemmony-agency' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"lemmony-animation lemmonyFadeInUp","fontSize":"small-plus","animationStyle":"lemmonyFadeInUp","animationDelay":"xsmall"} -->

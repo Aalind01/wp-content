@@ -377,7 +377,7 @@ msgid "Company CEO"
 msgstr ""
 
 #: patterns/hero.php:18 patterns/pages-front.php:18
-msgid "A Block-tastic WordPress Agency"
+msgid "A Crypto-wesome Asset Management Agency"
 msgstr ""
 
 #: patterns/hero.php:22 patterns/pages-about.php:162

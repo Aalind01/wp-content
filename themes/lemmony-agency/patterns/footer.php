@@ -115,10 +115,5 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"width":"66.66%"} -->
-<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:paragraph {"textColor":"body-alt","fontSize":"tiny-plus"} -->
-<p class="has-body-alt-color has-text-color has-tiny-plus-font-size"><?php esc_html_e( 'Theme developed by', 'lemmony-agency' ); ?> <a href="https://shufflehound.com/" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;"><?php esc_html_e( 'Shufflehound', 'lemmony-agency' ); ?></span></a>.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
